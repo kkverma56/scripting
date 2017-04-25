@@ -10,8 +10,8 @@
 
 //date simply the day, interval = number of min b/w each check (in sec, default = 5min), theatre = name of the theatre
 //date and interval should definitely be mentioned. theatre is optional
-var date = 22, interval = 5*60, theatre="";
-var audioLink = 'http://m63.telugu1.download/tere63xrc4wzse/Antasthulu%20-%20%281965%29/%5BiSongs.info%5D%20Ninu%20Veedani%20Needanu%20Nene.mp3';
+var date = 28, interval = 5*60, theatre="";
+var audioLink = 'http://2016a.downloadming1.com/bollywood%20mp3/Dangal%20(2016)/Dangal%20(2016)%20(128%20Kbps)/04%20-%20Dangal%20-%20Title%20Song%20-%20DownloadMing.SE.mp3';
 window.onload = readDocument;
 
 (function() {
